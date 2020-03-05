@@ -9,3 +9,5 @@ fibre) created close to the end of the optical fibre. The erratic motion is modu
 gradients of a speckle pattern intensity: particle is pulled away from the regions of high intensity (light) and pushed 
 towards the low intensity (dark) regions.
 
+HOW TO RUN THE CODES?
+Run the runopticaltrap.m file in a MATLAB environment.  

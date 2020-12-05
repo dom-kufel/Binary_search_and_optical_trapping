@@ -16,9 +16,8 @@ towards the low intensity (dark) regions.
 
 The work done during the summer internship at UCL Optical Tweezers group.
 
-Picture of the part of the experimental setup:
+Photo of the part of the experimental setup (pc: Hyunseok Oh):
 ![Alt Text](https://github.com/Dom98/Binary_search_and_optical_trapping/blob/master/speckletweezers_setup_photo.png?raw=true)
-(pc: Hyunseok Oh) 
 
 
 

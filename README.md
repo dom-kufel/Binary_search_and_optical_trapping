@@ -14,6 +14,9 @@ towards the low intensity (dark) regions.
 
 ![Alt Text](https://github.com/Dom98/Binary_search_and_optical_trapping/blob/master/speckletrapandparticletrajectory.png?raw=true)
 
+![Alt Text](https://github.com/Dom98/Binary_search_and_optical_trapping/blob/master/speckletweezers_setup_photo.png?raw=true)
+(photo credits: Hyunseok Oh) 
+
 The work done during the summer internship at UCL Optical Tweezers group.
 
 

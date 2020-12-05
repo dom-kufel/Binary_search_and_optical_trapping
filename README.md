@@ -12,7 +12,7 @@ fibre) created close to the end of the optical fibre. The erratic motion is modu
 gradients of a speckle pattern intensity: particle is pulled away from the regions of high intensity (light) and pushed 
 towards the low intensity (dark) regions.
 
-![Alt Text](https://github.com/Dom98/Binary_search_and_optical_trapping/blob/main/speckletrapandparticletrajectory.png)
+![Alt Text](https://github.com/Dom98/Binary_search_and_optical_trapping/blob/master/speckletrapandparticletrajectory.png?raw=true)
 
 The work done during the summer internship at UCL Optical Tweezers group.
 

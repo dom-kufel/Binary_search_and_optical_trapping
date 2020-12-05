@@ -8,9 +8,9 @@ Run the runopticaltrap.m file in a MATLAB environment.
 
 **More physical picture**: particle (e.g. a few micron-sized polysteryne particle) undergoes an erratic motion in a speckle optical 
 pattern (loosely speaking: light and dark interference 'speckles' arising from the mode-mixing within the multimode optical 
-fibre) created close to the end of the optical fibre. The erratic motion is modulated by the drifting force arising from 
+fibre) created near at the end of the optical fibre. The erratic motion is modulated by the drifting force arising from 
 gradients of a speckle pattern intensity: particle is pulled away from the regions of high intensity (light) and pushed 
-towards the low intensity (dark) regions.
+towards the low intensity (dark) regions (as you can see on the first figure below).
 
 ![Alt Text](https://github.com/Dom98/Binary_search_and_optical_trapping/blob/master/speckletrapandparticletrajectory.png?raw=true) 
 

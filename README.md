@@ -1,6 +1,7 @@
 # Binary search and optical trapping
 Implementation of the devised algorithm which optimizes the simulation of Brownian motion in a speckle optical trap.
 This simple algorithm integrates binary search with the native interpolation algorithm in MATLAB. This improves efficiency of the code by (at least) 1-2 orders of magnitude compared to the native MATLAB interpolation function. 
+
 **The basic idea of the algorithm**: the Brownian particle has x-y position given as a pair of two real numbers. The light intensity (speckle) pattern in which it moves has, however, a finite resolution i.e. it is represented as a grid of points (finite-size matrix). The goal is to interpolate the value of the light intensity at the position of the particle - knowing the value of light intensity of its closest gridpoints. Instead of running only the native MATLAB interpolation function (interp2 as for 2018) the nearest gridpoints to the x-y position of the particle are found by means of a binary search algorithm. Then the intensity value is interpolated only based on the position of these four nearest gridpoints. 
 
 **How to run the codes?**
